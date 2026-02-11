@@ -1,0 +1,25 @@
+{
+  "Python": [
+    "Data analysis using Pandas",
+    "Automation scripting",
+    "Machine learning model development"
+  ],
+  "SQL": [
+    "Querying relational databases",
+    "Data extraction and reporting"
+  ],
+  "Power BI": [
+    "Dashboard creation",
+    "Business reporting",
+    "Data visualization"
+  ],
+  "Machine Learning": [
+    "Building predictive models",
+    "Model evaluation and tuning"
+  ],
+  "NLP": [
+    "Text preprocessing",
+    "Resume parsing",
+    "Sentiment analysis"
+  ]
+}
