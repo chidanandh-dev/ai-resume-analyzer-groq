@@ -128,13 +128,4 @@ http://localhost:8501
 
 ---
 
-## 👨‍💻 Author
 
-**Chidanandh N A**  
-AI Trainer | Data Science | Machine Learning | GenAI  
-
----
-
-## 📜 License
-
-MIT License
